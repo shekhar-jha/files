@@ -2,7 +2,7 @@
 <!--
  based on gadget https://google-sites-disqus.googlecode.com/git/disqus-gadget.xml 
 -->
-<ModulePrefs title="Disqus for Google Sites" title_url="https://raw.githubusercontent.com/shekhar-jha/files/master/disqus-gadget.xml" description="Add comments provided by Disqus service to your Google Site" directory_title="Disqus for Google Sites" thumbnail="https://a.disquscdn.com/dotcom/d-4c49fcf/img/brand/disqus-logo-white-blue.svg" screenshot="https://google-sites-disqus.googlecode.com/git/screen.png" author="Shekhar Jha" author_aboutme="Software Developer" author_link="http://www.jhash.com" author_quote="" author_photo="" author_location="Russia" author_affiliation="" height="70" scaling="false" scrolling="true">
+<ModulePrefs title="Disqus for Google Sites" title_url="https://raw.githubusercontent.com/shekhar-jha/files/master/disqus-gadget.xml" description="Add comments provided by Disqus service to your Google Site" directory_title="Disqus for Google Sites" thumbnail="https://a.disquscdn.com/dotcom/d-4c49fcf/img/brand/disqus-logo-white-blue.svg" screenshot="https://google-sites-disqus.googlecode.com/git/screen.png" author="Serge Populov" author_aboutme="Software Developer" author_link="http://serge.populov.com/" author_quote="" author_photo="https://sites.google.com/a/populov.com/serge/home/photo.jpg" author_location="Russia" author_affiliation="Haunted Soft" height="70" scaling="false" scrolling="true">
 <Require feature="dynamic-height"/>
 </ModulePrefs>
 <UserPref name="disqus_site_param" datatype="string" display_name="Disqus Shortname" default_value="Your site shortname (get at Disqus)" required="true"/>
